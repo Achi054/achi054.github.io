@@ -1,0 +1,12 @@
+{
+    "scannerConfig": {
+        "formats": [
+            "Code39",
+            "Code128"
+        ],
+        "maxNumberOfSymbols": 1,
+        "binarizer": "LocalAverage",
+        "textMode": "Plain",
+        "characterSet": "Unknown"
+    }
+}
