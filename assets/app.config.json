@@ -6,10 +6,7 @@
 		    "Code128",
 		    "Code39",
 		    "Code93",
-		    "DataBar",
-		    "DataBarExpanded",
 		    "DataMatrix",
-		    "DXFilmEdge",
 		    "EAN-13",
 		    "EAN-8",
 		    "ITF",
@@ -19,9 +16,7 @@
 		    "MicroQRCode",
 		    "PDF417",
 		    "QRCode",
-		    "rMQRCode",
-		    "UPC-A",
-		    "UPC-E"
+		    "rMQRCode"
         ],
         "maxNumberOfSymbols": 1,
         "binarizer": "LocalAverage",
