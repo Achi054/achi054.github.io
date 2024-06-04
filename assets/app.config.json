@@ -1,8 +1,28 @@
 {
     "scannerConfig": {
         "formats": [
-            "Code39",
-            "Code128"
+            "Aztec",
+		    "Codabar",
+		    "Code128",
+		    "Code39",
+		    "Code93",
+		    "DataBar",
+		    "DataBarExpanded",
+		    "DataMatrix",
+		    "DXFilmEdge",
+		    "EAN-13",
+		    "EAN-8",
+		    "ITF",
+		    "Linear-Codes",
+		    "Matrix-Codes",
+		    "MaxiCode",
+		    "MicroQRCode",
+		    "None",
+		    "PDF417",
+		    "QRCode",
+		    "rMQRCode",
+		    "UPC-A",
+		    "UPC-E"
         ],
         "maxNumberOfSymbols": 1,
         "binarizer": "LocalAverage",
