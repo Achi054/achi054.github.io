@@ -1,0 +1,144 @@
+@font-face {
+  font-family: 'eurofins';
+  src:  url('eurofins-offsitelocations.eot?4rqh29');
+  src:  url('eurofins-offsitelocations.eot?4rqh29#iefix') format('embedded-opentype'),
+    url('eurofins-offsitelocations.ttf?4rqh29') format('truetype'),
+    url('eurofins-offsitelocations.woff?4rqh29') format('woff'),
+    url('eurofins-offsitelocations.svg?4rqh29#eurofins') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-Eurofins"], [class*=" icon-Eurofins"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'eurofins' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Eurofins-CLL:before {
+  content: "\e900";
+}
+.icon-Eurofins-CollectionVisit:before {
+  content: "\e901";
+}
+.icon-Eurofins-Depot:before {
+  content: "\e902";
+}
+.icon-Eurofins-MaterialDeliveryVisit:before {
+  content: "\e903";
+}
+.icon-Eurofins-Move:before {
+  content: "\e904";
+}
+.icon-Eurofins-OffSiteContainer:before {
+  content: "\e905";
+}
+.icon-Eurofins-OffSiteParcel:before {
+  content: "\e906";
+}
+.icon-Eurofins-SampleDeliveryVisit:before {
+  content: "\e907";
+}
+.icon-Eurofins-SamplingPoint:before {
+  content: "\e908";
+}
+.icon-Eurofins-Site:before {
+  content: "\e909";
+}
+.icon-Eurofins-SiteArea:before {
+  content: "\e90a";
+}
+.icon-Eurofins-Support:before {
+  content: "\e90b";
+}
+
+.icon-Eurofins-Anomaly:before {
+    content: "\e90c";     
+}
+.icon-Eurofins-Categorization:before {
+    content: "\e90d";     
+}
+.icon-Eurofins-SamplingConditions:before {
+    content: "\e90e";     
+}
+.icon-Eurofins-Configuration:before {
+    content: "\e90f";     
+}
+.icon-Eurofins-Date:before {
+    content: "\e910";     
+}
+.icon-Eurofins-Description:before {
+    content: "\e911";     
+}
+.icon-Eurofins-Drawing:before {
+    content: "\e912";     
+}
+.icon-Eurofins-Equipment:before {
+    content: "\e913";     
+}
+.icon-Eurofins-GPS:before {
+    content: "\e914";     
+}
+.icon-Eurofins-Installation:before {
+    content: "\e915";     
+}
+.icon-Eurofins-Location1:before {
+    content: "\e916";     
+}
+.icon-Eurofins-Location2:before {
+    content: "\e917";     
+}
+.icon-Eurofins-Location3:before {
+    content: "\e918";     
+}
+.icon-Eurofins-Measurement1:before {
+    content: "\e926";     
+}
+.icon-Eurofins-Measurement2:before {
+    content: "\e919";     
+}
+.icon-Eurofins-Measurement3:before {
+    content: "\e91a";     
+}
+.icon-Eurofins-Observation1:before {
+    content: "\e91b";     
+}
+.icon-Eurofins-Observation2:before {
+    content: "\e91c";     
+}
+.icon-Eurofins-Observation3:before {
+    content: "\e91d";     
+}
+.icon-Eurofins-Picture:before {
+    content: "\e91e";     
+}
+.icon-Eurofins-Process:before {
+    content: "\e91f";     
+}
+.icon-Eurofins-Risks:before {
+    content: "\e920";     
+}
+.icon-Eurofins-Scan:before {
+    content: "\e921";     
+}
+.icon-Eurofins-Security:before {
+    content: "\e922";     
+}
+.icon-Eurofins-Signature:before {
+    content: "\e923";     
+}
+.icon-Eurofins-Time:before {
+    content: "\e924";     
+}
+.icon-Eurofins-Uninstallation:before {
+    content: "\e925";     
+} 

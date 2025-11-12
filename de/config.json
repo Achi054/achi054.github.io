@@ -1,0 +1,30 @@
+{
+  "authentication": {
+    "isEnabled": false,
+    "issuer": "https://uat.id.eurofins.com",
+    "showDebugInformation": true,
+    "clientId": "e96ca4a8-9602-44b7-8983-58f431d6e39f",
+    "loginUrl": "https://uat.id.eurofins.com/as/authorization.oauth2",
+    "tokenEndpoint": "https://uat.id.eurofins.com/as/token.oauth2",
+    "resourceUrl": "http://localhost:59534",
+    "waitForTokenInMsec": 5000,
+    "automaticRefreshInternalInMinutes": 3,
+    "automaticRefreshMaxRetries": 5
+  },
+  "bypassGateway": true,
+  "gatewayUrl": "http://localhost:59534",
+  "applicationServiceUrl": "http://localhost:59534/api",
+  "googleMapsGeocodeServiceUrl": "https://maps.googleapis.com/maps/api/geocode/json?",
+  "googleMapsApiKey": "AIzaSyAnb1LAFvx1rSFRm-fpo5xyynpx6n1l_Go",
+  "supportMailAddress": "oso_core_servicedesk@eurofins.com",
+  "domainName": "ES-AREA1\\",
+  "releaseNotePath": "./releaseNote.html",
+  "offsiteLocationServiceUrl": "https://localhost:61000/api",
+  "queryStringLimit": 2040,
+  "migratedApplicationUrl": "http://localhost:8090",
+  "what3Words": {
+    "baseUrl": "https://api.what3words.com/v3/",
+    "apiKey": "6HRSJIPW"
+  },
+  "maxVisitsToEditOffsiteData": 5
+}

@@ -1,0 +1,482 @@
+{
+  "en": {
+    "firstDayOfWeek": 0,
+    "dayNames": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "dayNamesShort": [
+      "Sun",
+      "Mon",
+      "Tue",
+      "Wed",
+      "Thu",
+      "Fri",
+      "Sat"
+    ],
+    "dayNamesMin": [
+      "Su",
+      "Mo",
+      "Tu",
+      "We",
+      "Th",
+      "Fr",
+      "Sa"
+    ],
+    "monthNames": [
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December"
+    ],
+    "monthNamesShort": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec"
+    ],
+    "today": "Today",
+    "clear": "Clear"
+  },
+  "en-gb": {
+    "firstDayOfWeek": 1,
+    "dayNames": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "dayNamesShort": [
+      "Sun",
+      "Mon",
+      "Tue",
+      "Wed",
+      "Thu",
+      "Fri",
+      "Sat"
+    ],
+    "dayNamesMin": [
+      "Su",
+      "Mo",
+      "Tu",
+      "We",
+      "Th",
+      "Fr",
+      "Sa"
+    ],
+    "monthNames": [
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December"
+    ],
+    "monthNamesShort": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec"
+    ],
+    "today": "Today",
+    "clear": "Clear"
+  },
+  "fr": {
+    "firstDayOfWeek": 1,
+    "dayNames": [
+      "Dimanche",
+      "Lundi",
+      "Mardi",
+      "Mercredi",
+      "Jeudi",
+      "Vendredi",
+      "Samedi"
+    ],
+    "dayNamesShort": [
+      "Dim",
+      "Lun",
+      "Mar",
+      "Mer",
+      "Jeu",
+      "Ven",
+      "Sam"
+    ],
+    "dayNamesMin": [
+      "Di",
+      "Lu",
+      "Ma",
+      "Me",
+      "Je",
+      "Ve",
+      "Sa"
+    ],
+    "monthNames": [
+      "Janvier",
+      "Février",
+      "Mars",
+      "Avril",
+      "Mai",
+      "Juin",
+      "Juillet",
+      "Août",
+      "Septembre",
+      "Octobre",
+      "Novembre",
+      "Décembre"
+    ],
+    "monthNamesShort": [
+      "Jan",
+      "Fév",
+      "Mar",
+      "Avr",
+      "Mai",
+      "Jui",
+      "Jul",
+      "Aou",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec"
+    ],
+    "today": "Aujourd'hui",
+    "clear": "Effacer"
+  },
+  "vi": {
+    "firstDayOfWeek": 0,
+    "dayNames": [
+      "VI-Sunday",
+      "VI-Monday",
+      "VI-Tuesday",
+      "VI-Wednesday",
+      "VI-Thursday",
+      "VI-Friday",
+      "VI-Saturday"
+    ],
+    "dayNamesShort": [
+      "VI-Sun",
+      "VI-Mon",
+      "VI-Tue",
+      "VI-Wed",
+      "VI-Thu",
+      "VI-Fri",
+      "VI-Sat"
+    ],
+    "dayNamesMin": [
+      "VI-Su",
+      "VI-Mo",
+      "VI-Tu",
+      "VI-We",
+      "VI-Th",
+      "VI-Fr",
+      "VI-Sa"
+    ],
+    "monthNames": [
+      "VI-January",
+      "VI-February",
+      "VI-March",
+      "VI-April",
+      "VI-May",
+      "VI-June",
+      "VI-July",
+      "VI-August",
+      "VI-September",
+      "VI-October",
+      "VI-November",
+      "VI-December"
+    ],
+    "monthNamesShort": [
+      "VI-Jan",
+      "VI-Feb",
+      "VI-Mar",
+      "VI-Apr",
+      "VI-May",
+      "VI-Jun",
+      "VI-Jul",
+      "VI-Aug",
+      "VI-Sep",
+      "VI-Oct",
+      "VI-Nov",
+      "VI-Dec"
+    ],
+    "today": "VI-Today",
+    "clear": "VI-Clear"
+  },
+  "nl": {
+    "firstDayOfWeek": 0,
+    "dayNames": [
+      "Zondag",
+      "Maandag",
+      "Dinsdag",
+      "Woensdag",
+      "Donderdag",
+      "Vrijdag",
+      "Zaterdag"
+    ],
+    "dayNamesShort": [
+      "Zon",
+      "Maa",
+      "Din",
+      "Woe",
+      "Don",
+      "Vri",
+      "Zat"
+    ],
+    "dayNamesMin": [
+      "Zo",
+      "Ma",
+      "Di",
+      "Wo",
+      "Do",
+      "Vr",
+      "Za"
+    ],
+    "monthNames": [
+      "Januari",
+      "Februari",
+      "Maart",
+      "April",
+      "Mei",
+      "Juni",
+      "Juli",
+      "Augustus",
+      "September",
+      "Oktober",
+      "November",
+      "December"
+    ],
+    "monthNamesShort": [
+      "Jan",
+      "Feb",
+      "Maa",
+      "Apr",
+      "Mei",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Okt",
+      "Nov",
+      "Dec"
+    ],
+    "today": "Vandaag",
+    "clear": "duidelijk"
+  },
+  "de": {
+    "firstDayOfWeek": 0,
+    "dayNames": [
+      "Sonntag",
+      "Montag",
+      "Dienstag",
+      "Mittwoch",
+      "Donnerstag",
+      "Freitag",
+      "Samstag"
+    ],
+    "dayNamesShort": [
+      "Son",
+      "Mon",
+      "Die",
+      "Mit",
+      "Don",
+      "Fre",
+      "Sam"
+    ],
+    "dayNamesMin": [
+      "So",
+      "Mo",
+      "Di",
+      "Mi",
+      "Do",
+      "Fr",
+      "Sa"
+    ],
+    "monthNames": [
+      "Januar",
+      "Februar",
+      "März",
+      "April",
+      "Mai",
+      "Juni",
+      "Juli",
+      "August",
+      "September",
+      "Oktober",
+      "November",
+      "Dezember"
+    ],
+    "monthNamesShort": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "Mai",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Okt",
+      "Nov",
+      "Dez"
+    ],
+    "today": "Heute",
+    "clear": "Klar"
+  },
+  "fi": {
+    "firstDayOfWeek": 1,
+    "dayNames": [
+      "sunnuntai",
+      "maanantai",
+      "tiistai",
+      "keskiviikko",
+      "torstai",
+      "perjantai",
+      "lauantai"
+    ],
+    "dayNamesShort": [
+      "Sun",
+      "Maa",
+      "Tii",
+      "Kes",
+      "Tor",
+      "Per",
+      "Lau"
+    ],
+    "dayNamesMin": [
+      "Su",
+      "Ma",
+      "Ti",
+      "Ke",
+      "To",
+      "Pe",
+      "La"
+    ],
+    "monthNames": [
+      "Tammikuu",
+      "Helmikuu",
+      "Maaliskuu",
+      "Huhtikuu",
+      "Toukokuu",
+      "Kesäkuu",
+      "Heinäkuu",
+      "Elokuu",
+      "Syyskuu",
+      "Lokakuu",
+      "Marraskuu",
+      "Joulukuu"
+    ],
+    "monthNamesShort": [
+      "Tam",
+      "Hel",
+      "Maa",
+      "Huh",
+      "Tou",
+      "Kes",
+      "Hei",
+      "Elo",
+      "Syy",
+      "Lok",
+      "Mar",
+      "Jou"
+    ],
+    "today": "Tänään",
+    "clear": "Tyhjennä"
+  },
+  "pl": {
+    "firstDayOfWeek": 1,
+    "dayNames": [
+      "niedziela",
+      "poniedziałek",
+      "wtorek",
+      "środa",
+      "czwartek",
+      "piątek",
+      "sobota"
+    ],
+    "dayNamesShort": [
+      "Nie",
+      "Pon",
+      "Wto",
+      "Śro",
+      "Czw",
+      "Pią",
+      "Sob"
+    ],
+    "dayNamesMin": [
+      "Nd",
+      "Pn",
+      "Wt",
+      "Śr",
+      "Cz",
+      "Pt",
+      "Sb"
+    ],
+    "monthNames": [
+      "Styczeń",
+      "Luty",
+      "Marzec",
+      "Kwiecień",
+      "Maj",
+      "Czerwiec",
+      "Lipiec",
+      "Sierpień",
+      "Wrzesień",
+      "Październik",
+      "Listopad",
+      "Grudzień"
+    ],
+    "monthNamesShort": [
+      "Sty",
+      "Lut",
+      "Mar",
+      "Kwi",
+      "Maj",
+      "Cze",
+      "Lip",
+      "Sie",
+      "Wrz",
+      "Paź",
+      "Lis",
+      "Gru"
+    ],
+    "today": "Dzisiaj",
+    "clear": "Wyczyść"
+  }
+}
